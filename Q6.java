@@ -1,3 +1,6 @@
+/*6. Write a Java program that takes an integer n as input 
+and prints the multiplication table for that number up to 10. */
+
 import java.util.Scanner;
 
 public class Q6{
