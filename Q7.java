@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class abc{
+public class Q7{
 	public static void main (String[] args){
 
 		Scanner cin = new Scanner(System.in);
