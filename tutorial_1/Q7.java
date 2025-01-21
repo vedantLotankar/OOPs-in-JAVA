@@ -28,8 +28,8 @@ public class Q7{
 			System.out.print("Zero");
 
 		}
-
-			
+		
+		cin.close();
 	} 
 
 }

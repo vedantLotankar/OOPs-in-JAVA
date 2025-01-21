@@ -18,6 +18,8 @@ public class Q2 {
 
         System.out.print("The sum of digits is: "+sum);
 
+        cin.close();
+
     }
     
 }

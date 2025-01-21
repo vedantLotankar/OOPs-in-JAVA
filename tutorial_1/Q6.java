@@ -16,6 +16,8 @@ public class Q6{
 			System.out.println(num + " x " + i + " = " + num*i);
 
 		}
+
+		cin.close();
 			
 	} 
 
