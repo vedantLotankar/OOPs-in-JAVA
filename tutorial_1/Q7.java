@@ -1,3 +1,4 @@
+package tutorial_1;
 /* Q7. Write a Java program that takes an integer as input 
 and checks whether the number is positive, negative, or zero. */
 

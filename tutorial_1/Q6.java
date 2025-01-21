@@ -1,3 +1,4 @@
+package tutorial_1;
 /*6. Write a Java program that takes an integer n as input 
 and prints the multiplication table for that number up to 10. */
 
