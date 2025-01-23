@@ -9,8 +9,6 @@ public class Q3 {
         System.out.print("Enter a number: ");
         int num = cin.nextInt();
 
-        int sum = 0;
-
         if(num >= 2){
             System.out.print("0 ");
             System.out.print("1 ");
