@@ -1,6 +1,15 @@
 # 🖥️ Object-Oriented Programming (OOP) in Java  
 
-Welcome to my **OOP in Java** repository! 🌟 This repository contains all the solved questions from my tutorials, covering various Object-Oriented Programming concepts in Java.  
+<style>
+        p {
+            text-align: justify;
+        }
+</style>
+
+<p>
+
+Welcome  to my **OOP in Java** repository! 🌟 This repository contains all the solved questions from my tutorials, covering various  Object-Oriented Programming concepts in Java. currently on   Tutorial_2 out of  10.
+
 
 <br/>
 
@@ -21,6 +30,8 @@ Welcome to my **OOP in Java** repository! 🌟 This repository contains all the 
 - **Abstraction** ✨  
 
 <br/>
+
+</p>
 
 ## 🚀 How to Use  
 
