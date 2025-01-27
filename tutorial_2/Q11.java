@@ -1,6 +1,4 @@
 package tutorial_2;
-
-
 /*11.	Generate the following pattern:
         1
       1 2 1
