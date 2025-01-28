@@ -1,6 +1,6 @@
-package tutorial_2;
+
 import java.util.Scanner;
-/*8. Write a Java program that calculates the factorial of a given number using recursion.*/
+/*7. Write a Java program that reverses a given number.*/
 
 public class Q7 {
     public static void main(String[] args) {
