@@ -1,3 +1,4 @@
+package tutorial_2;
 
 import java.util.Scanner;
 /*7. Write a Java program that reverses a given number.*/
